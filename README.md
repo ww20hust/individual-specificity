@@ -1,4 +1,4 @@
-# Protein Stability Analysis Project
+# Longitudinal Protein Stability and Individual Specificity Analysis Project
 
 This project analyzes protein stability (PHI - Protein Homeostasis Index) across multiple time points and investigates relationships with genetic effects, environmental factors, and protein characteristics.
 
@@ -95,3 +95,4 @@ Output directories are organized by analysis type:
 ## Citation
 
 If you use this code, please cite the relevant publications and acknowledge the data sources.
+
