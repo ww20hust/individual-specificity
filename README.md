@@ -1,16 +1,5 @@
 # Longitudinal Protein Stability and Individual Specificity Analysis Project
 
-This project analyzes protein stability (PHI - Protein Homeostasis Index) across multiple time points and investigates relationships with genetic effects, environmental factors, and protein characteristics.
-
-## Overview
-
-The project consists of multiple analysis scripts that:
-
-1. Calculate PHI (Pearson correlation coefficients) between protein levels at different visit pairs
-2. Analyze PHI distributions across sex and age groups
-3. Investigate relationships between PHI and genetic effects (pQTL, genetic variance, GxE interactions)
-4. Visualize protein stability patterns and perform enrichment analyses
-
 ## Project Structure
 
 ### Core Analysis Scripts
@@ -95,4 +84,5 @@ Output directories are organized by analysis type:
 ## Citation
 
 If you use this code, please cite the relevant publications and acknowledge the data sources.
+
 
